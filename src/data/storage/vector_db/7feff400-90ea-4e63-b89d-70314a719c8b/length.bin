@@ -1,0 +1,17 @@
+# Payment Processing System
+
+## Overview
+The payment processing system handles credit card transactions, refunds, and payment verification.
+
+## Supported Payment Methods
+- Visa
+- Mastercard
+- American Express
+- PayPal
+
+## Transaction Flow
+1. User initiates payment
+2. System validates payment details
+3. Payment gateway processes transaction
+4. System receives confirmation
+5. Order status updatedÿÿÿ
